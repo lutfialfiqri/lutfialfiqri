@@ -1,12 +1,11 @@
 <div align="center">
   <h1>Halo, saya Lutfi Alfiqri! 👋</h1>
-  <p><b>Software Developer | Tech Enthusiast | Lifelong Learner</b></p>
+  <p><b>Software Developer • Tech Enthusiast • Lifelong Learner</b></p>
 
-  <!-- Sosial Media (Tautan Langsung & Rapi) -->
   <p>
-    <a href="https://github.com"><b>🐙 GitHub</b></a> •
-    <a href="https://linkedin.com"><b>💼 LinkedIn</b></a> •
-    <a href="mailto:emailanda@example.com"><b>✉️ Email</b></a>
+    <a href="https://github.com"><b>GitHub</b></a> &nbsp;|&nbsp;
+    <a href="https://linkedin.com"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+    <a href="mailto:emailanda@example.com"><b>Email</b></a>
   </p>
 </div>
 
@@ -18,36 +17,42 @@ Saya adalah seorang pengembang perangkat lunak yang antusias dalam membangun sol
 - 🔭 **Sedang mengerjakan:** Proyek pengembangan aplikasi web dan eksplorasi sistem *backend*.
 - 🌱 **Sedang mempelajari:** Arsitektur *cloud*, *clean code*, dan teknologi *modern web*.
 - 💬 **Tanyakan saya tentang:** Pengembangan Web, JavaScript, Python, atau kolaborasi *open-source*.
-- ⚡ **Fakta unik:** Suka ngoding sambil ditemani secangkir kopi! ☕
+- ⚡ **Fakta unik:** Suka ngoding sambil ditemani secangkir kopi. ☕
 
 ---
 
 ### 🛠️ Bahasa Pemrograman & Teknologi
-Berikut adalah beberapa teknologi dan alat yang sering saya gunakan:
 
-<p align="left">
-  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="TypeScript" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Python" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="PHP" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Laravel" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="React" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Node.js" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="MySQL" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
-  <img src="https://githubusercontent.com" alt="VS Code" width="40" height="40" />
-</p>
+| Kategori | Teknologi & Alat |
+| :--- | :--- |
+| **Frontend** | `HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React` • `Tailwind CSS` |
+| **Backend** | `Node.js` • `Python` • `PHP` • `Laravel` |
+| **Database** | `MySQL` • `PostgreSQL` • `MongoDB` |
+| **Tools & Lainnya** | `Git` • `GitHub` • `VS Code` • `Postman` |
 
 ---
 
 ### 📌 Proyek Unggulan
-- **[Nama Proyek 1](https://github.com)** — Deskripsi singkat mengenai fungsi dan teknologi yang digunakan pada proyek ini.
-- **[Nama Proyek 2](https://github.com)** — Deskripsi singkat mengenai masalah yang diselesaikan oleh aplikasi ini.
+
+#### 1. [Nama Proyek Pertama](https://github.com)
+* **Deskripsi:** Penjelasan singkat mengenai fungsi utama aplikasi dan masalah yang diselesaikan.
+* **Teknologi:** `JavaScript` • `Node.js` • `MySQL`
+
+#### 2. [Nama Proyek Kedua](https://github.com)
+* **Deskripsi:** Penjelasan singkat mengenai fitur unggulan dari proyek ini.
+* **Teknologi:** `PHP` • `Laravel` • `Tailwind CSS`
+
+---
+
+### 📫 Mari Terhubung
+Jangan ragu untuk menghubungi saya jika ingin berdiskusi, bertukar pikiran, atau berkolaborasi dalam proyek baru:
+
+- **GitHub:** [://github.com](https://github.com)
+- **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- **Email:** `emailanda@example.com`
 
 ---
 
 <div align="center">
-  <p>Terima kasih telah berkunjung! Jangan ragu untuk terhubung atau berkolaborasi. 🙌</p>
+  <p><i>Terima kasih telah mampir ke profil saya! 🙌</i></p>
 </div>

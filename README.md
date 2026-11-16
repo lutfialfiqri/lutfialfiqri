@@ -30,19 +30,6 @@ Saya adalah seorang pengembang perangkat lunak yang antusias dalam membangun sol
 | **Database** | `MySQL` • `PostgreSQL` • `MongoDB` |
 | **Tools & Lainnya** | `Git` • `GitHub` • `VS Code` • `Postman` |
 
----
-
-### 📌 Proyek Unggulan
-
-#### 1. [Nama Proyek Pertama](https://github.com)
-* **Deskripsi:** Penjelasan singkat mengenai fungsi utama aplikasi dan masalah yang diselesaikan.
-* **Teknologi:** `JavaScript` • `Node.js` • `MySQL`
-
-#### 2. [Nama Proyek Kedua](https://github.com)
-* **Deskripsi:** Penjelasan singkat mengenai fitur unggulan dari proyek ini.
-* **Teknologi:** `PHP` • `Laravel` • `Tailwind CSS`
-
----
 
 ### 📫 Mari Terhubung
 Jangan ragu untuk menghubungi saya jika ingin berdiskusi, bertukar pikiran, atau berkolaborasi dalam proyek baru:
